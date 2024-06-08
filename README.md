@@ -56,43 +56,31 @@ npm run dev
 ```
 
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thesunnymallick.vercel.app/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesunnymallick/)
-
-[![linkedin](https://img.shields.io/badge/instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themallicksunny/)
-
 ## Demo
 
-
-
-![myMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/248c5a66-6e03-4577-b8ca-8cde98e9475c)
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/c4ecda8e-59b8-4e58-8e4e-8131bb8e1e6c)
 
 
 
 ### Dashboard
-![dashboard](https://github.com/thesunnymallick/meetly/assets/81466855/51c872a7-179d-4a03-a907-5ff324af71f3)
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/e461f245-9301-43d7-808e-152b7a8da6c9)
 
 
 ### Create Meeting
-![createMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/9e67f477-9177-4eb5-98b1-9c8421469ea6)
-
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/945cea98-8866-4a54-b6cd-b6ca7e8fe38b)
 
 
 ### Light Mode
-![viewMeeting-lightMode](https://github.com/thesunnymallick/meetly/assets/81466855/8e2251b9-66a0-4151-8838-d5bcd9da54b6)
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/dd65eb65-c7c1-4027-8141-6425facd91b5)
 
 
 ### One On one Meeting
-![one-on-one-meeting](https://github.com/thesunnymallick/meetly/assets/81466855/69f6621f-f684-4625-bc3c-849f2835c29b)
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/715d560b-382e-4581-ba9f-d57cb7dbbf60)
 
 ### Edit Meeting
 
-
-![EditMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/cabc97ba-8c87-4660-9106-46a56eec393d)
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/1bcebc41-bb63-4615-a1b0-15844cdef99f)
 
 ### Join Meeting
 
-![joinMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/a75c6ef4-7ec4-4eb5-88a9-92f4d7d6364e)
+![image](https://github.com/neha222222/Meet-wave/assets/132138786/e7533ac5-7241-4e2d-b876-d95d9e7c3521)
