@@ -1,65 +1,62 @@
-# Meetly - Web-based Video Conferencing Application
-Meetly is a web-based video conferencing application built using React.js, SCSS, Firebase, and the Zego SDK. It provides users with a seamless and secure platform to connect with each other via video and audio. The application supports features such as user authentication, meeting creation, invitation, and dark mode.
 
-### Features:
-- Users can log in to Meetly using their Google accounts, ensuring secure access to the application.
-- Users have the ability to create virtual meetings within the application.
-- Users can invite other logged-in users to join their meetings, facilitating collaboration and communication.
-- Meetly leverages the Zego SDK to enable real-time video and audio connections between users, ensuring a smooth and reliable communication experience.
-- The application offers a dark mode option for enhanced visual comfort and accessibility.
-- Responsive design for desktop and mobile devices
+---
 
-## Tools/Libraries
+## MeetWave - Web-based Video Conferencing Application
 
+MeetWave is a web-based video conferencing application built using React.js, SCSS, Firebase, and the Zego SDK. It provides users with a seamless and secure platform to connect with each other via video and audio. The application supports features such as user authentication, meeting creation, invitation, and dark mode.
 
+### Features
+- **Secure Login**: Users can log in to MeetWave using their Google accounts, ensuring secure access to the application.
+- **Meeting Creation**: Users have the ability to create virtual meetings within the application.
+- **Invitations**: Users can invite other logged-in users to join their meetings, facilitating collaboration and communication.
+- **Real-time Communication**: MeetWave leverages the Zego SDK to enable real-time video and audio connections between users, ensuring a smooth and reliable communication experience.
+- **Dark Mode**: The application offers a dark mode option for enhanced visual comfort and accessibility.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+### Tools/Libraries
 - React
 - React Hooks
-- Scss
+- SCSS
 - react-router-dom
 - Redux
 - Redux-toolkit
-- firebase
+- Firebase
 - Zego SDK
 
-## Live Deployment 
+### Live Deployment
+[https://MeetWave.onrender.com/](https://MeetWave.onrender.com/)
 
-https://meetly.onrender.com/
+### How to Use
+To run MeetWave locally, follow these steps:
 
-## How to Use
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/thesunnymallick/MeetWave.git
+   ```
 
-To run Meetly locally, follow these steps:
+2. **Install the dependencies:**
+   ```sh
+   cd MeetWave
+   npm install
+   ```
 
-- 1.Clone the repository:
-```bash
-git clone https://github.com/thesunnymallick/meetly.git
-```
-- 2.Install the dependencies:
-```bash
-cd meetly
-npm install
-```
-- 3.Set up Firebase:
+3. **Set up Firebase:**
+   - Create a new Firebase project at [Firebase Console](https://console.firebase.google.com/).
+   - Enable the Google authentication provider in the Firebase Authentication settings.
+   - Create a new Firestore database and update the Firebase configuration in the application code.
 
-Create a new Firebase project at https://console.firebase.google.com/.
-Enable the Google authentication provider in the Firebase Authentication settings.
-Create a new Firestore database and update the Firebase configuration in the application code.
+4. **Set up the Zego SDK:**
+   - Sign up for a Zego account at [Zego Console](https://console.zego.im/).
+   - Obtain the SDK credentials and update the Zego configuration in the application code.
 
-- 4.Set up the Zego SDK:
+5. **Start the application:**
+   ```sh
+   npm run dev
+   ```
 
-Sign up for a Zego account at https://console.zego.im/.
-Obtain the SDK credentials and update the Zego configuration in the application code.
+---
 
-- Start the application:
-
-```bash
-npm run dev
-```
-
-
-## Demo
-
-![image](https://github.com/neha222222/Meet-wave/assets/132138786/c4ecda8e-59b8-4e58-8e4e-8131bb8e1e6c)
-
+This structure ensures clarity and completeness, making it easy for users to understand and get started with your project.
 
 
 ### Dashboard
